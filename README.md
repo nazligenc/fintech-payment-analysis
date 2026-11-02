@@ -1,4 +1,4 @@
-# PayFlow | Fintech Ödeme Analizi
+# Fintech Ödeme Analizi
 
 ## Proje Hakkında
 
